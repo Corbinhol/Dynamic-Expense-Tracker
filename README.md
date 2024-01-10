@@ -28,7 +28,7 @@ Beneath the bar graph lies the second segment of the panel, which complements th
 **Bar Direction:** 
 There were some key challenges to developing this website that stumped me, the first and main one was of course the **bar graph**. As soon as I saw the bar graph I knew I wanted the bars to smoothly rise up at the start, which meant I had to solve a few problems. First, I didn’t want the panel to grow as the bars did, thats an easy fix since the bars will have a defined maximum height, *we’ll just lock the bar graph section to become a defined height*, so itll stay that height even if they’re all the way down.  
 
-I encountered an interesting challenge during development. The website's design inherently draws shapes from top to bottom, which caused an issue with the bar graph: it would start drawing from the top, contrary to the intended bottom-up approach.
+The website's design inherently draws shapes from top to bottom, which caused an issue with the bar graph: it would start drawing from the top, contrary to the intended bottom-up approach.
 
 ![enter image description here](https://i.imgur.com/QSYn5po.png)
 
