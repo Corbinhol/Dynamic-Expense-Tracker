@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Bank</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="notice">
+        <p>The numbers in this demonstration are randomly generated :)</p>
+        <p>Simply refresh to change them!</p>
+    </div>
+    <main class="hidden-none" id="main">
+        <div class="balance-panel">
+            <div class="first-half-balance">
+                <h3>My Balance</h3>
+                <h1 id="balance">$921.80</h1>
+            </div>
+            <div class="second-half-balance">
+                <span class="hollow-circle"></span>
+                <span class="filled-circle"></span>
+            </div>
+        </div>
+        <div class="spendings-panel">
+            <h2>Spending - Last 7 Days</h2>
+            <div class="bar-graph">
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-mon"><b>$4.00</b></p>
+                    <span class="bar mon" id="mon"></span>
+                    <p><b>Mon</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-tue"><b>$00.00</b></p>
+                    <span class="bar tue" id="tue"></span>
+                    <p><b>Tue</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-wed"><b>$00.00</b></p>
+                    <span class="bar wed" id="wed"></span>
+                    <p><b>Wed</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-thu"><b>$00.00</b></p>
+                    <span class="bar thu" id="thu"></span>
+                    <p><b>Thu</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-fri"><b>$00.00</b></p>
+                    <span class="bar fri" id="fri"></span>
+                    <p><b>Fri</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-sat"><b>$00.00</b></p>
+                    <span class="bar sat" id="sat"></span>
+                    <p><b>Sat</b></p>
+                </div>
+                <div class="bar-container">
+                    <p class="money hidden-none" id="money-sun"><b>$00.00</b></p>
+                    <span class="bar sun" id="sun"></span>
+                    <p><b>Sun</b></p>
+                </div>
+            </div>
+            <hr>
+            <div class="bottom-half hidden-none" id="bottom-half">
+                <div class="section-1">
+                    <p><b>Spendings this month</b></p>
+                    <h1 id="spendings">$431.82</h1>
+                </div>
+                <div class="section-2">
+                    <p class="spending-last-month" id="spendingLastMonth">+2.4%</p>
+                    <p><b>From last month</b></p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <div class="att">
+        <p>Coded by <a href="https://github.com/Corbinhol">Corbin Holcombe</a></p>
+        <p>Project/Design Developed by <a href="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt/hub">Frontend Mentor</a></p>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
