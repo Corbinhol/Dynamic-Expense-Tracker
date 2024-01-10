@@ -101,5 +101,6 @@ Additionally, the *JavaScript* code could be more streamlined. While it serves i
 The original project was designed by [Frontend Mentor](https://www.frontendmentor.io/), you can find the project [here](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt) to try it out for yourself!
 
 
-#   D y n a m i c - E x p e n s e - T r a c k e r  
+#   D y n a m i c - E x p e n s e - T r a c k e r 
+ 
  
