@@ -1,4 +1,4 @@
-# Dynamic Expense Tracker - A Visual Financial Dashboard.
+﻿#  **Dynamic Expense Tracker - A Visual Financial Dashboard.**
 
 This illustration provides a clear example of an expense tracking chart. The model effectively displays key financial data, including ***current balance*** and ***spending patterns*** on a daily and weekly basis. This format can serve as a standard template for individuals to monitor their weekly expenses. Additionally, it is suitably designed for presenting financial information to an individual or a group, offering a concise overview of expenditure for the week.
 
@@ -6,6 +6,7 @@ This illustration provides a clear example of an expense tracking chart. The mod
 > found that even simple tasks can be pretty challenging if I push
 > myself enough. It was a fun experience, and I definitely learned a lot
 > from working on this project.
+> 
 
 ## Tools and Thought Process Overview
 
@@ -98,5 +99,6 @@ Additionally, the *JavaScript* code could be more streamlined. While it serves i
 ## Contribution
 
 The original project was designed by [Frontend Mentor](https://www.frontendmentor.io/), you can find the project [here](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt) to try it out for yourself!
- 
- 
+
+
+
