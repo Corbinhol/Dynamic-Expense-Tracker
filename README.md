@@ -10,9 +10,10 @@ This illustration provides a clear example of an expense tracking chart. The mod
 
 ## Tools and Thought Process Overview
 
-For this project, my goal was to go back to the basics and really dive deep into the fundamentals. Therefore, I chose to stick with the core technologies: **HTML**, **CSS**, and **JavaScript**, without relying on any additional libraries like *Sass*. This approach allowed me to get hands-on experience and a thorough understanding of these foundational elements. Additionally, I utilized **Figma** for the initial planning and design phase of the website before proceeding with the actual development.
+For this project, my goal was to go back to the basics and really dive deep into the fundamentals. Therefore, I chose to stick with the core technologies: **HTML**, **CSS**, and **JavaScript**, without relying on any additional libraries like *Sass*. This approach allowed me to get hands-on experience and a thorough understanding of these foundational elements. Additionally, I utilized **Figma** for the initial planning and design phase of the website before proceeding with the actual development. If you wish to view the figma
+design, I included the file in the git directory.
 
-Instead of using a predefined amount or loading data from a set JSON file as originally suggested by the project guidelines, I opted to showcase the dynamic capabilities of my illustration. To achieve this, I implemented randomization for all the figures, ensuring that the numbers change each time the website is reloaded. It's important to note, however, that if I were to adapt this for real-world application, I could easily integrate a JSON file to set the variables accordingly.
+Instead of using a predefined amount or loading data from a set JSON file as originally suggested by the project guidelines, I opted to showcase the dynamic capabilities of my illustration. To achieve this, I implemented randomization for all the figures, ensuring that the numbers change each time the website is reloaded. It's important to note, however, that if I were to adapt this for real-world applications, I could easily integrate a JSON file to set the variables accordingly.
 
 ## General Overview of Design
 ![Image of the finalized project.](https://i.imgur.com/vRc9hg8.png)
