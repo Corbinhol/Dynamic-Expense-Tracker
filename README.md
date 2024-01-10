@@ -21,7 +21,7 @@ The design features a panel at the top displaying the **user’s balance**. Belo
 
 Beneath the bar graph lies the second segment of the panel, which complements the graphical representation above. As the bars reach their full height, detailed information about weekly expenditures smoothly appears, enhancing the page's overall fluidity. This section not only shows the **total amount spent over the week** but also provides a comparative percentage indicating whether the spending was more or less than the previous week. In keeping with the intuitive design, this percentage is color-coded: red indicates increased spending, while green signifies a reduction in expenses.
 
-**The website can be viewed by going to [URL]**
+**The website can be viewed by going to [https://corbinhol.github.io/Dynamic-Expense-Tracker/](https://corbinhol.github.io/Dynamic-Expense-Tracker/)**
 
 ## Challenge Points
 
