@@ -6,7 +6,6 @@ This illustration provides a clear example of an expense tracking chart. The mod
 > found that even simple tasks can be pretty challenging if I push
 > myself enough. It was a fun experience, and I definitely learned a lot
 > from working on this project.
-> 
 
 ## Tools and Thought Process Overview
 
